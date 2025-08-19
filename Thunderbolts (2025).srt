@@ -1,0 +1,137 @@
+1
+00:00:02,000 --> 00:00:07,000
+
+2
+00:00:08,000 --> 00:00:13,000
+
+3
+00:27:21,500 --> 00:27:23,000
+Yelena!
+
+4
+00:27:26,041 --> 00:27:27,375
+Yelena!
+
+5
+00:27:31,541 --> 00:27:33,250
+Yelena, c'mon!
+
+6
+00:27:39,500 --> 00:27:41,583
+Lunch will be over soon.
+
+7
+00:27:42,625 --> 00:27:44,458
+Why'd you bring us so far out?
+
+8
+00:27:45,041 --> 00:27:46,458
+Anya, over here!
+
+9
+00:27:56,333 --> 00:27:57,541
+I'm sorry.
+
+10
+00:28:09,291 --> 00:28:13,666
+Well done, Yelena.
+Your first test is now complete.
+
+11
+01:05:33,458 --> 01:05:35,166
+Stay quiet, Valentina.
+
+12
+01:05:35,250 --> 01:05:37,916
+Completely quiet, no matter what you hear.
+
+13
+01:05:38,000 --> 01:05:39,333
+You promise me?
+
+14
+01:05:39,416 --> 01:05:40,833
+Did I do something wrong?
+
+15
+01:05:40,916 --> 01:05:43,666
+The man in town asked where we live.
+
+16
+01:05:43,750 --> 01:05:46,500
+He said he was your friend, so I told him.
+
+17
+01:05:46,583 --> 01:05:48,041
+Yes, well he was.
+
+18
+01:05:48,250 --> 01:05:51,000
+Remember I told you not to talk to anyone?
+
+19
+01:05:51,083 --> 01:05:53,291
+Yes, daddy. I'm so sorry.
+
+20
+01:05:53,833 --> 01:05:56,583
+It's okay. Just stay hidden for me.
+
+21
+01:06:03,375 --> 01:06:04,458
+You know...
+
+22
+01:06:04,541 --> 01:06:06,708
+I've been in this business a long time.
+
+23
+01:06:07,750 --> 01:06:11,000
+There's always someone like you,
+smart, but cocky.
+
+24
+01:06:11,083 --> 01:06:13,416
+A hungry dog who already had
+a bone in his mouth.
+
+25
+01:06:13,500 --> 01:06:15,500
+Let's have a drink, shall we?
+
+26
+01:06:16,333 --> 01:06:18,750
+You still think
+you're getting away with this.
+
+27
+01:06:19,750 --> 01:06:22,208
+Don't worry,
+I'll look out for your sweet Valentina.
+
+28
+01:35:15,583 --> 01:35:17,291
+Yelena, c'mon!
+
+29
+01:35:21,041 --> 01:35:23,125
+Lunch will be over soon.
+
+30
+01:35:24,125 --> 01:35:25,916
+Why'd you bring us so far out?
+
+31
+01:35:30,958 --> 01:35:32,375
+Anya, over here!
+
+32
+01:35:36,208 --> 01:35:37,333
+I'm sorry.
+
+33
+01:36:12,500 --> 01:36:15,125
+It's too late for that, friend.
+
+
+
